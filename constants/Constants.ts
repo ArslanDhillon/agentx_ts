@@ -17,6 +17,8 @@ export const PersistanceKeys = {
   LocalAffiliates: "LocalAffiliates",
   TestAiCredentials: "TestAiCredentials",
 
+
+  
   GlobalSupportUrl: "https://api.leadconnectorhq.com/widget/bookings/yk4um7vhmtrv4uaxmqpr",
   GlobalConsultationUrl: "https://api.leadconnectorhq.com/widget/booking/F1DtpvAR8fNf3RJM1akZ",
   GlobalWebinarUrl: "https://api.leadconnectorhq.com/widget/bookings/yk4um7vhmtrv4uaxmqpr",
